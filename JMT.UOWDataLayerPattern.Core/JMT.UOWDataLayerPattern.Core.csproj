@@ -7,6 +7,8 @@
     <Company>JMT</Company>
     <Description>a simple data layer design pattern for single database for requesting to database using code first approach</Description>
     <PackageReleaseNotes>initial update for the library</PackageReleaseNotes>
+    <PackageProjectUrl>https://github.com/waput90/JMT.UOWDataLayerPattern</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/waput90/JMT.UOWDataLayerPattern</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
